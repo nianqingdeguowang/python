@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T08:54:50.796Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_fvIz2yLpbdR0_v3j1v_" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T13:31:00.180Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="JU9oTv9mTpM_kqisK6Hz" version="22.1.18" type="github">
   <diagram name="第 1 页" id="XHgCwbrQKlzJ7mEItaBk">
     <mxGraphModel dx="1134" dy="673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xV8LQQcttLs_1aelATzl-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.37" y="288" width="187.63" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="xV8LQQcttLs_1aelATzl-67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.38" y="503" width="189.25" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="xV8LQQcttLs_1aelATzl-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="342" width="222" height="365" as="geometry" />
+        </mxCell>
         <mxCell id="xV8LQQcttLs_1aelATzl-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xV8LQQcttLs_1aelATzl-1" target="xV8LQQcttLs_1aelATzl-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -29,19 +38,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xV8LQQcttLs_1aelATzl-4" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="461" y="333" width="30" height="60" as="geometry" />
+          <mxGeometry x="462" y="387" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xV8LQQcttLs_1aelATzl-12" value="分析流程管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="106" y="466" width="136" height="59" as="geometry" />
+          <mxGeometry x="99" y="401" width="136" height="59" as="geometry" />
         </mxCell>
         <mxCell id="xV8LQQcttLs_1aelATzl-24" value="算法库管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="106" y="382" width="136" height="61" as="geometry" />
+          <mxGeometry x="102" y="321" width="136" height="61" as="geometry" />
         </mxCell>
         <mxCell id="xV8LQQcttLs_1aelATzl-27" value="系统管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="106" y="295" width="136" height="59" as="geometry" />
+          <mxGeometry x="114" y="218" width="136" height="59" as="geometry" />
         </mxCell>
         <mxCell id="xV8LQQcttLs_1aelATzl-30" value="数据源管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="710" y="284" width="136" height="61" as="geometry" />
+          <mxGeometry x="706" y="218" width="136" height="61" as="geometry" />
         </mxCell>
         <mxCell id="xV8LQQcttLs_1aelATzl-32" value="数据集管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="710" y="382" width="136" height="61" as="geometry" />
@@ -69,13 +78,13 @@
             <mxPoint x="495.9757603236608" y="539.2459193638394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xV8LQQcttLs_1aelATzl-51" value="任务调度" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="xV8LQQcttLs_1aelATzl-51" value="任务调度管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="710" y="549" width="136" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="xV8LQQcttLs_1aelATzl-58" value="" style="endArrow=block;endSize=15.328571428571431;endFill=0;html=1;rounded=0;shape=flexArrow;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=35.714285714285715;" edge="1" parent="1" target="xV8LQQcttLs_1aelATzl-1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="477" y="419" as="sourcePoint" />
-            <mxPoint x="588" y="464" as="targetPoint" />
+        <mxCell id="xV8LQQcttLs_1aelATzl-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="477" y="478" as="sourcePoint" />
+            <mxPoint x="477" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
