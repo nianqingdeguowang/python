@@ -1,9 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T16:00:51.245Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="23.1.5" etag="TfoG7V8eV4U_V7WMLF3b" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T16:37:18.124Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="fNXSZVqagtz6fq7VvYKC" version="23.1.5" type="github">
   <diagram name="第 1 页" id="IkbdYyZgTxzfussHmOva">
-    <mxGraphModel>
+    <mxGraphModel dx="1960" dy="1387" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-16" target="zVfyd89gMReHTwE-nL8Z-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-145.5" y="387" width="782" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-5" target="zVfyd89gMReHTwE-nL8Z-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-145.5" y="83" width="782" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-1" target="zVfyd89gMReHTwE-nL8Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第一章&amp;nbsp; &amp;nbsp;绪论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-81" width="151" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第二章&amp;nbsp; &amp;nbsp;相关知识与技术介绍&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="1" width="316" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-4" target="zVfyd89gMReHTwE-nL8Z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-4" target="zVfyd89gMReHTwE-nL8Z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第三章&amp;nbsp; &amp;nbsp;基于DS证据理论的发动机启动识别算法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-23" y="105" width="535" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-6" target="zVfyd89gMReHTwE-nL8Z-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于高斯分布的BPA函数生成方法&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="196" width="268" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-7" target="zVfyd89gMReHTwE-nL8Z-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;基于Dempster与马尔可夫模型的融合方法&lt;/font&gt;&lt;span style=&quot;font-size:14.0pt;font-family:黑体;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="252" y="196" width="331" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-2" target="zVfyd89gMReHTwE-nL8Z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;对比实验&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="137" y="283" width="209" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-15" target="zVfyd89gMReHTwE-nL8Z-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-15" target="zVfyd89gMReHTwE-nL8Z-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-15" target="zVfyd89gMReHTwE-nL8Z-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-15" target="zVfyd89gMReHTwE-nL8Z-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第四章&amp;nbsp; &amp;nbsp;基于湖仓一体的多源异构数据存储技术&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="419" width="468" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;系统架构&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="523" width="150" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;元数据管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="74" y="523" width="150" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;存算分离&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="266" y="523" width="150" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;存算分离&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="455" y="523" width="150" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-27" target="zVfyd89gMReHTwE-nL8Z-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第五章&amp;nbsp; &amp;nbsp;一站式数据融合与分析平台需求分析&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="63.75" y="637" width="363.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;" edge="1" parent="1" source="zVfyd89gMReHTwE-nL8Z-28" target="zVfyd89gMReHTwE-nL8Z-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第六章&amp;nbsp; &amp;nbsp;一站式数据融合与分析平台设计与实现&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="63.75" y="718" width="363.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="zVfyd89gMReHTwE-nL8Z-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;第七章&amp;nbsp; &amp;nbsp;总结与展望&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="149" y="793" width="193" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
